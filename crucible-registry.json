@@ -1,0 +1,14 @@
+{
+    "num-samples": "1",
+    "test-order": "s",
+    "max-sample-failures": "1",
+    "max-rb-attempts": "1",
+    "roadblock": {
+        "timeout": {
+            "default": "240",
+            "endpoint-deploy": "360",
+            "engine-start": "720",
+            "send-data": "300"
+        }
+    }
+}
